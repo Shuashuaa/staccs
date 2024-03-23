@@ -1,13 +1,14 @@
-# staccs
+<h1>staccs</h1>
+
+# Project Features ✨
+
 - [x] Vuejs - Vite
 - [x] TailwindCss
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- [x] Mobile Responsive
+- [x] Dynamic Boilerplate
+- [ ] Meta & SEO Ready
+- [ ] Code Splitting
+- [ ] Dark Mode
 
 ## Project Setup
 
