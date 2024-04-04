@@ -64,7 +64,7 @@ import { reactive } from 'vue'
         { name: '021 - On-Going', status: 'onGoing', to: '/pending'},
         { name: '022 - On-Going', status: 'onGoing', to: '/pending'},
         { name: '023 - On-Going', status: 'onGoing', to: '/pending'},
-        { name: '024 - Print This', status: '', to: '/printThis'},
+        { name: '024 - Print This', status: 'onGoing', to: '/printThis'},
         { name: '025 - Dark Mode', status: 'onGoing', to: '/pending'},
     ]) 
 </script>
